@@ -1,0 +1,228 @@
+Creating State 0
+Transitions
+	To state    0    0.159807
+	To state    1    0.840193
+
+Emission Probabilities
+Sum of Emission Probabilities: 1.000000
+
+Creating State 1
+Transitions
+	To state   0   0.159807
+	To state   1   0.840193
+
+Emission Probabilities
+Sum of Emission Probabilities: 1.000000
+
+----------------------------------------
+Pi:
+State   0   0.582290
+State   1   0.417710
+
+
+Iteration Number: 1    (No plog difference for first iteration)
+The sum of the plogs is 28545.160859
+
+Iteration Number: 2    Plog Significance between last iteration: 4009.068991
+The sum of the plogs is 24536.091868
+
+Iteration Number: 3    Plog Significance between last iteration: 201.947054
+The sum of the plogs is 24334.144814
+
+Iteration Number: 4    Plog Significance between last iteration: 178.239971
+The sum of the plogs is 24155.904843
+
+Iteration Number: 5    Plog Significance between last iteration: 110.242456
+The sum of the plogs is 24045.662387
+
+Iteration Number: 6    Plog Significance between last iteration: 52.460255
+The sum of the plogs is 23993.202132
+
+Iteration Number: 7    Plog Significance between last iteration: 22.867311
+The sum of the plogs is 23970.334821
+
+Iteration Number: 8    Plog Significance between last iteration: 11.478132
+The sum of the plogs is 23958.856689
+
+Iteration Number: 9    Plog Significance between last iteration: 7.319024
+The sum of the plogs is 23951.537665
+
+Iteration Number: 10    Plog Significance between last iteration: 5.439445
+The sum of the plogs is 23946.098220
+
+Iteration Number: 11    Plog Significance between last iteration: 4.271053
+The sum of the plogs is 23941.827167
+
+Iteration Number: 12    Plog Significance between last iteration: 3.381091
+The sum of the plogs is 23938.446076
+
+Iteration Number: 13    Plog Significance between last iteration: 2.655432
+The sum of the plogs is 23935.790644
+
+Iteration Number: 14    Plog Significance between last iteration: 2.060382
+The sum of the plogs is 23933.730262
+
+Iteration Number: 15    Plog Significance between last iteration: 1.578633
+The sum of the plogs is 23932.151629
+
+Iteration Number: 16    Plog Significance between last iteration: 1.194634
+The sum of the plogs is 23930.956996
+
+Iteration Number: 17    Plog Significance between last iteration: 0.892783
+The sum of the plogs is 23930.064212
+
+Iteration Number: 18    Plog Significance between last iteration: 0.658204
+The sum of the plogs is 23929.406009
+
+Iteration Number: 19    Plog Significance between last iteration: 0.477545
+The sum of the plogs is 23928.928464
+
+Iteration Number: 20    Plog Significance between last iteration: 0.339387
+The sum of the plogs is 23928.589078
+
+Iteration Number: 21    Plog Significance between last iteration: 0.234296
+The sum of the plogs is 23928.354781
+
+Iteration Number: 22    Plog Significance between last iteration: 0.154682
+The sum of the plogs is 23928.200099
+
+Iteration Number: 23    Plog Significance between last iteration: 0.094546
+The sum of the plogs is 23928.105553
+
+Iteration Number: 24    Plog Significance between last iteration: 0.049216
+The sum of the plogs is 23928.056337
+
+Iteration Number: 25    Plog Significance between last iteration: 0.015091
+The sum of the plogs is 23928.041246
+
+--------------------------------
+Maximization
+--------------------------------
+
+
+----------------------------------------
+-  Transition Probabilities  -
+----------------------------------------
+From_State: 0
+
+	To State:	 0  prob:  0.097990  (148.571396   over    1516.193014)
+	To State:	 1  prob:  0.902010  (1367.621618   over    1516.193014)
+
+
+From_State: 1
+
+	To State:	 0  prob:  0.109515  (478.231007   over    4366.806986)
+	To State:	 1  prob:  0.890485  (3888.575978   over    4366.806986)
+
+
+------------------------------
+Pi:
+------------------------------
+State: 0      0.999374
+State: 1      0.000626
+
+
+----------------------------------------
+Emission Probabilities:
+----------------------------------------
+State 0
+Normalize soft counts to get emission probabilities
+
+	letter: #   probability: 0.000000000001246039  (0.000000    over    1516.193014)
+	letter: '   probability: 0.000000000000040098  (0.000000    over    1516.193014)
+	letter: .   probability: 0.000000000000011514  (0.000000    over    1516.193014)
+	letter: a   probability: 0.068196700886393805  (103.399361    over    1516.193014)
+	letter: c   probability: 0.066149093234619330  (100.294793    over    1516.193014)
+	letter: b   probability: 0.060677811082367875  (91.999273    over    1516.193014)
+	letter: e   probability: 0.034511500284627177  (52.326096    over    1516.193014)
+	letter: d   probability: 0.042756713696573072  (64.827431    over    1516.193014)
+	letter: g   probability: 0.037666197660253677  (57.109226    over    1516.193014)
+	letter: f   probability: 0.054800570416814236  (83.088242    over    1516.193014)
+	letter: i   probability: 0.023382548873533318  (35.452457    over    1516.193014)
+	letter: h   probability: 0.058028071767251506  (87.981757    over    1516.193014)
+	letter: k   probability: 0.014249327904943777  (21.604731    over    1516.193014)
+	letter: j   probability: 0.005935919711972495  (9.000000    over    1516.193014)
+	letter: m   probability: 0.049875040069714514  (75.620187    over    1516.193014)
+	letter: l   probability: 0.039687329492522808  (60.173652    over    1516.193014)
+	letter: o   probability: 0.023361794732568712  (35.420990    over    1516.193014)
+	letter: n   probability: 0.023374859416320098  (35.440799    over    1516.193014)
+	letter: q   probability: 0.003957279807987240  (6.000000    over    1516.193014)
+	letter: p   probability: 0.047837248295803388  (72.530502    over    1516.193014)
+	letter: s   probability: 0.140378517848068790  (212.840928    over    1516.193014)
+	letter: r   probability: 0.037631552589886916  (57.056697    over    1516.193014)
+	letter: u   probability: 0.010154538831169197  (15.396241    over    1516.193014)
+	letter: t   probability: 0.074307053422286204  (112.663835    over    1516.193014)
+	letter: w   probability: 0.066811292898507790  (101.298816    over    1516.193014)
+	letter: v   probability: 0.003046939872915095  (4.619749    over    1516.193014)
+	letter: y   probability: 0.013222097201303381  (20.047251    over    1516.193014)
+	letter: x   probability: 0.000000000000153686  (0.000000    over    1516.193014)
+	letter: z   probability: 0.000000000000144123  (0.000000    over    1516.193014)
+
+
+State 1
+Normalize soft counts to get emission probabilities
+
+	letter: #   probability: 0.228771274581308526  (999.000000    over    4366.806986)
+	letter: '   probability: 0.008015009619967152  (35.000000    over    4366.806986)
+	letter: .   probability: 0.000458000549709206  (2.000000    over    4366.806986)
+	letter: a   probability: 0.059219617300631987  (258.600639    over    4366.806986)
+	letter: c   probability: 0.013672508800491465  (59.705207    over    4366.806986)
+	letter: b   probability: 0.000000166419440631  (0.000727    over    4366.806986)
+	letter: e   probability: 0.130226480402171524  (568.673904    over    4366.806986)
+	letter: d   probability: 0.025458548945505852  (111.172569    over    4366.806986)
+	letter: g   probability: 0.013944004036514877  (60.890774    over    4366.806986)
+	letter: f   probability: 0.002727795847164084  (11.911758    over    4366.806986)
+	letter: i   probability: 0.051650449281694072  (225.547543    over    4366.806986)
+	letter: h   probability: 0.030232213924048467  (132.018243    over    4366.806986)
+	letter: k   probability: 0.013372532553738383  (58.395269    over    4366.806986)
+	letter: j   probability: 0.000000000000002904  (0.000000    over    4366.806986)
+	letter: m   probability: 0.013139992871431307  (57.379813    over    4366.806986)
+	letter: l   probability: 0.046218289227646293  (201.826348    over    4366.806986)
+	letter: o   probability: 0.072496680310225714  (316.579010    over    4366.806986)
+	letter: n   probability: 0.059439128472622796  (259.559201    over    4366.806986)
+	letter: q   probability: 0.000000000000000000  (0.000000    over    4366.806986)
+	letter: p   probability: 0.011786529261237631  (51.469498    over    4366.806986)
+	letter: s   probability: 0.019501450871342786  (85.159072    over    4366.806986)
+	letter: r   probability: 0.066397096045644047  (289.943303    over    4366.806986)
+	letter: u   probability: 0.034259301967685334  (149.603759    over    4366.806986)
+	letter: t   probability: 0.059846053545655156  (261.336165    over    4366.806986)
+	letter: w   probability: 0.002221573903053649  (9.701184    over    4366.806986)
+	letter: v   probability: 0.009705089138960014  (42.380251    over    4366.806986)
+	letter: y   probability: 0.023118207174790892  (100.952749    over    4366.806986)
+	letter: x   probability: 0.002977003573082466  (13.000000    over    4366.806986)
+	letter: z   probability: 0.001145001374232970  (5.000000    over    4366.806986)
+
+
+---------------------------------------------
+Log Ratio of emissions from 2 states:
+---------------------------------------------
+
+Letter: '    Value (Log(V_s0/V_s1)): -37.540371
+Letter: #    Value (Log(V_s0/V_s1)): -37.417766
+Letter: .    Value (Log(V_s0/V_s1)): -35.211184
+Letter: x    Value (Log(V_s0/V_s1)): -34.173153
+Letter: z    Value (Log(V_s0/V_s1)): -32.887332
+Letter: e    Value (Log(V_s0/V_s1)): -1.915874
+Letter: u    Value (Log(V_s0/V_s1)): -1.754371
+Letter: v    Value (Log(V_s0/V_s1)): -1.671380
+Letter: o    Value (Log(V_s0/V_s1)): -1.633764
+Letter: n    Value (Log(V_s0/V_s1)): -1.346455
+Letter: i    Value (Log(V_s0/V_s1)): -1.143349
+Letter: r    Value (Log(V_s0/V_s1)): -0.819177
+Letter: y    Value (Log(V_s0/V_s1)): -0.806078
+Letter: l    Value (Log(V_s0/V_s1)): -0.219785
+Letter: k    Value (Log(V_s0/V_s1)): 0.091621
+Letter: a    Value (Log(V_s0/V_s1)): 0.203627
+Letter: t    Value (Log(V_s0/V_s1)): 0.312243
+Letter: d    Value (Log(V_s0/V_s1)): 0.748001
+Letter: h    Value (Log(V_s0/V_s1)): 0.940664
+Letter: g    Value (Log(V_s0/V_s1)): 1.433626
+Letter: m    Value (Log(V_s0/V_s1)): 1.924354
+Letter: p    Value (Log(V_s0/V_s1)): 2.020995
+Letter: c    Value (Log(V_s0/V_s1)): 2.274443
+Letter: s    Value (Log(V_s0/V_s1)): 2.847669
+Letter: f    Value (Log(V_s0/V_s1)): 4.328383
+Letter: w    Value (Log(V_s0/V_s1)): 4.910438
+Letter: b    Value (Log(V_s0/V_s1)): 18.475986
+Letter: j    Value (Log(V_s0/V_s1)): 40.894512
+Letter: q    Value (Log(V_s0/V_s1)): 176.807393

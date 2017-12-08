@@ -1,0 +1,13 @@
+4 /4   Recomputing A, B, and Π.
+
+4 / 4  Putting expectation and maximization into a loop sensibly, with a stop condition that makes sense.
+
+2 / 2  Show the preference of each letter for one of the states by computing the log ratios of the emission probabilities.
+
+3 / 3  Determine the values of A for the best analysis (highest probability) of the English data.
+
+2  / 2 Readable output.
+
+2  / 2 Extra credit: Viterbi parse.
+
+Additional comments: ____TOTAL____: 15 / 15 
