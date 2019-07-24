@@ -1,4 +1,4 @@
-# This repository contains 4 NLP / Computational Linguistics focused projects:
+# 4 NLP / Computational Linguistics Projects:
 -Semantic Compression (With Unigram Frequencies)  
 -String Correlation (Edit Distance, SED)  
 -Hidden Markov Model  
